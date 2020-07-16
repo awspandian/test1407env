@@ -7,3 +7,5 @@ git push
 git stash testing
 
 git stash apply testing
+
+git squash 
